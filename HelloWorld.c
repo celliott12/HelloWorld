@@ -8,6 +8,6 @@
 #include<stdlib.h>
 
 int main(int argc, char **argv) {
-	printf("Conner Elliott");
+	printf("Conner Elliott,(Name here)\n");
 	return 0;
 }
